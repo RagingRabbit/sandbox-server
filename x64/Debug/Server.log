@@ -1,0 +1,4 @@
+﻿  server.cpp
+d:\projects\sandbox\server\server.cpp(76): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  d:\projects\sandbox\server\server.cpp(76): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Server.vcxproj -> D:\Projects\Sandbox\x64\Debug\Server.exe
